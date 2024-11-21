@@ -61,7 +61,7 @@ module seven_segment_display (
             default: seg_output = 7'b0000000; // blank or error
         endcase
     end
-endmodule\n
+endmodule
 ```
 
 OUTPUT:
