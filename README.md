@@ -1,4 +1,4 @@
-       Seven Segment Display Using Veriloh HDL
+         Seven Segment Display Using Verilog HDL
        
 Aim:
 
