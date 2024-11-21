@@ -41,7 +41,7 @@ Diagram:
 
 Verilog Code for Seven-Segment Display:
 
-// seven_segment_display.v
+\n // seven_segment_display.v
 module seven_segment_display (
     input wire [3:0] binary_input,
     output reg [6:0] seg_output
@@ -61,7 +61,7 @@ module seven_segment_display (
             default: seg_output = 7'b0000000; // blank or error
         endcase
     end
-endmodule
+endmodule\n
 
 
 OUTPUT:
